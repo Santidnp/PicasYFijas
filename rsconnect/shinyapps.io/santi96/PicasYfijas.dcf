@@ -1,0 +1,12 @@
+name: PicasYfijas
+title: PicasYfijas
+username:
+account: santi96
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3901140
+bundleId: 4589175
+url: https://santi96.shinyapps.io/PicasYfijas/
+when: 1620808463.66234
+asMultiple: FALSE
+asStatic: FALSE

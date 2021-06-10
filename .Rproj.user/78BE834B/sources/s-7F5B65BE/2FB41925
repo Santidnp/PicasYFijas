@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1620795610491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2FB41925",
+    "lastKnownWriteTime" : 1618646289,
+    "last_content_update" : 1618646289,
+    "path" : "C:/Users/sngh9/OneDrive/Escritorio/ejercicios R/PyFjugo/PicasYfijas/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "17,4",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
